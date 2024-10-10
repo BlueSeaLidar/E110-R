@@ -1,0 +1,8 @@
+#connect
+type:uart
+connectArg:com16
+connectArg2:230400
+#get
+uuid:1
+model:1
+version:1
